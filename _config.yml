@@ -62,8 +62,8 @@ kramdown:
 # Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
-  clientID: d18b343dd9c7ca49518a                            #生成的clientID
-  clientSecret: 539e88b8a7feffaddbb553b9c421dfefcbc6eced    #生成的clientSecret
+  clientID: cbce58577e226a382f44                            #生成的clientID
+  clientSecret: 5904ff4beffe634e788cab51ca90c43fad33a398    #生成的clientSecret
   repo: izordon.github.io    #仓库名称
   owner: izordon    #github用户名
   admin: izordon
