@@ -1,9 +1,6 @@
-本项目仅仅是为了前来Fork的朋友保留的，原则上不再更新。本项目示范网站地址为：https://klovien.github.io 。
+本项目仅仅是为了展示个人学习文档使用。
 
-三叶草国际语已更名为“格罗比言·全球语”，新的项目地址为：
-
-* 中文版：https://gitee.com/globien/globien
-* 英文版：https://github.com/globien/globien.github.io
+项目网站地址为：https://izordon.github.io 。
 
 ### 致谢
 
