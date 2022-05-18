@@ -7,7 +7,7 @@ description: "Zordon's source of happiness"
 keyword: "Python, Shell, Linux, Django, DevOps, CI/CD, Jenkins, k8s, Docker"
 url: "https://klovien.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/klovien/klovien.github.io.git" # you code repository
+github_repo: "https://github.com/izordon/izordon.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
@@ -96,16 +96,13 @@ service-worker: true
 
 
 
-# 友情链接，请尽量不要删除，谢谢！
+# 友情链接
 friends: [
     {
-        title: "星球国际语",
+        title: "1",
         href: "https://globien.gitee.io"
     },{
-        title: "星球语互动社区",
+        title: "2",
         href: "https://tieba.baidu.com/f?kw=%E6%A0%BC%E7%BD%97%E6%AF%94%E8%A8%80&fr=home"
-    },{
-        title: "知乎：人造国际语",
-        href: "https://zhuanlan.zhihu.com/Artificial-International-Language"
     }
 ]
