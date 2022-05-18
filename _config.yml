@@ -2,10 +2,10 @@
 title:  Zordon's Home
 SEOTitle: Zordon's source of happiness
 header-img: img/post-bg-desk.jpg
-email: klovien@gmail.com
+email: zordonyang@foxmail.com
 description: "Zordon's source of happiness"
 keyword: "Python, Shell, Linux, Django, DevOps, CI/CD, Jenkins, k8s, Docker"
-url: "https://klovien.github.io"          # your host, for absolute URL
+url: "https://izordon.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/izordon/izordon.github.io.git" # you code repository
 
