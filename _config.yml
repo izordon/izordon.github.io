@@ -1,7 +1,7 @@
 # Site settings
 title:  Zordon's Home
 SEOTitle: Zordon's source of happiness
-header-img: img/home-bg-art.jpg
+header-img: img/home-bg.jpg
 email: zordonyang@foxmail.com
 description: "Zordon's source of happiness"
 keyword: "Python, Shell, Linux, Django, DevOps, CI/CD, Jenkins, k8s, Docker"
