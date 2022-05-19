@@ -1,16 +1,25 @@
 ---
 layout:     post
-title:      Deploy Blackbox_exporter
+title:      部署Blackbox_exporter
 subtitle:   Blackbox_exporter
 date:       2022-05-18
 author:     Zordon Yang
-header-img: img/the-first.png
+header-img: img/post-bg-YesOrNo.jpg
 catalog: false
 tags:
     - 部署文档
----
+    - Prometheus
 
-[TOC]
+---
+- [Blackbox_exporter](#blackbox_exporter)
+  - [部署](#部署)
+    - [1、下载Blackbox_exporter](#1下载blackbox_exporter)
+    - [2、配置以服务方式启动](#2配置以服务方式启动)
+    - [4、设置开机自启&启动服务](#4设置开机自启启动服务)
+    - [5、测试访问](#5测试访问)
+    - [6、Blackbox_exporter配置文件](#6blackbox_exporter配置文件)
+    - [7、Prometheus配置](#7prometheus配置)
+  - [Blackbox_exporter使用相关](#blackbox_exporter使用相关)
 
 # Blackbox_exporter
 
