@@ -9,7 +9,7 @@ catalog: false
 tags:
     - 部署文档
     - Prometheus
-
+---
 - [Pushgateway](#pushgateway)
   - [部署](#部署)
     - [1、下载Pushgateway](#1下载pushgateway)
